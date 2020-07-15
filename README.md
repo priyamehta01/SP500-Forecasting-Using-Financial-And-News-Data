@@ -8,4 +8,4 @@ a probabilistic guarantee of return. In this report, we present
 a detailed description of our proposed systems, experiments
 conducted, and analyze the results as well. Our stacking based
 ensemble model which was created using support vector machine
-achieved an f1-score of 57% on the testing data
+achieved an f1-score of 57% on the testing data.
