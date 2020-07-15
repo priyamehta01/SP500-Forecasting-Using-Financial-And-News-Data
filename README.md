@@ -1,5 +1,3 @@
-#SP500-Forecasting-Using-Financial-And-News-Data
-
 For our CS6375.502 (Machine Learning) final project, we decided the
 problem statement to be weekly up/down forecasting of S&P 500
 stock price movement using machine learning techniques. The
